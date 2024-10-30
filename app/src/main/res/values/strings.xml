@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1_Android</string>
+    <string name="custom_text">YooY</string>
+    <string name="button_text">Working?</string>
+</resources>
